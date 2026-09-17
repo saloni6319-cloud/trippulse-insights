@@ -1,0 +1,99 @@
+trip_id,destination_id,trip_name,trip_type,duration_days,max_capacity,base_price,difficulty_level,target_audience,trip_status
+1,1,Manali Backpacking Expedition,Backpacking,4,25,10987,Moderate,"Students, Solo Travellers",Active
+2,1,Manali Luxury Retreat,Luxury,5,24,33063,Easy,"Couples, Families",Active
+3,1,Manali Weekend Getaway,Weekend Getaway,4,23,6521,Easy,"Families, Corporate",Active
+4,2,Shimla Backpacking Expedition,Backpacking,6,29,8453,Moderate,"Students, Solo Travellers",Active
+5,2,Shimla Luxury Retreat,Luxury,5,17,40655,Easy,"Couples, Families",Active
+6,2,Shimla Weekend Getaway,Weekend Getaway,4,26,8823,Easy,"Families, Corporate",Active
+7,3,Kasol Backpacking Expedition,Backpacking,6,26,13069,Moderate,"Students, Solo Travellers",Active
+8,3,Kasol Luxury Escape,Luxury,5,16,34758,Easy,"Couples, Families",Active
+9,3,Kasol Weekend Getaway,Weekend Getaway,3,27,10036,Easy,"Families, Corporate",Active
+10,4,Dharamshala & McLeod Ganj Backpacking Expedition,Backpacking,4,34,9472,Moderate,"Students, Solo Travellers",Active
+11,4,Dharamshala & McLeod Ganj Luxury Retreat,Luxury,5,22,28334,Easy,"Couples, Families",Active
+12,4,Dharamshala & McLeod Ganj Weekend Getaway,Weekend Getaway,2,21,10349,Easy,"Families, Corporate",Active
+13,5,Leh-Ladakh Backpacking Expedition,Backpacking,4,26,10774,Moderate,"Students, Solo Travellers",Active
+14,5,Leh-Ladakh Luxury Retreat,Luxury,4,15,38203,Easy,"Couples, Families",Active
+15,5,Leh-Ladakh Weekend Getaway,Weekend Getaway,3,20,10467,Easy,"Families, Corporate",Active
+16,6,Auli Backpacking Expedition,Backpacking,6,31,10926,Moderate,"Students, Solo Travellers",Active
+17,6,Auli Luxury Retreat,Luxury,3,21,40562,Easy,"Couples, Families",Active
+18,6,Auli Weekend Getaway,Weekend Getaway,3,23,6212,Easy,"Families, Corporate",Active
+19,7,Nainital Backpacking Expedition,Backpacking,4,29,8837,Moderate,"Students, Solo Travellers",Active
+20,7,Nainital Luxury Retreat,Luxury,5,22,36605,Easy,"Couples, Families",Active
+21,7,Nainital Weekend Getaway,Weekend Getaway,4,29,7409,Easy,"Families, Corporate",Active
+22,8,Gangtok Backpacking Expedition,Backpacking,4,28,9063,Moderate,"Students, Solo Travellers",Active
+23,8,Gangtok Luxury Escape,Luxury,5,24,38981,Easy,"Couples, Families",Active
+24,8,Gangtok Weekend Getaway,Weekend Getaway,2,28,9589,Easy,"Families, Corporate",Active
+25,9,Darjeeling Backpacking Expedition,Backpacking,5,28,11853,Moderate,"Students, Solo Travellers",Active
+26,9,Darjeeling Luxury Retreat,Luxury,5,23,25957,Easy,"Couples, Families",Active
+27,9,Darjeeling Weekend Getaway,Weekend Getaway,2,20,6696,Easy,"Families, Corporate",Active
+28,10,Tawang Backpacking Expedition,Backpacking,4,35,9355,Moderate,"Students, Solo Travellers",Active
+29,10,Tawang Luxury Retreat,Luxury,3,20,30276,Easy,"Couples, Families",Active
+30,10,Tawang Weekend Getaway,Weekend Getaway,2,28,9036,Easy,"Families, Corporate",Active
+31,11,Goa Honeymoon Escape,Honeymoon,5,23,40248,Easy,Couples,Active
+32,11,Goa Luxury Escape,Luxury,5,17,25963,Easy,"Couples, Families",Active
+33,11,Goa Weekend Getaway,Weekend Getaway,4,28,11073,Easy,"Families, Corporate",Active
+34,11,Goa Friends Getaway,Weekend Getaway,5,27,9893,Easy,"Solo Travellers, Students",Active
+35,11,Goa Workation,Workation,5,29,31003,Easy,Corporate,Active
+36,12,Gokarna Romantic Beach Retreat,Honeymoon,5,23,43113,Easy,Couples,Active
+37,12,Gokarna Luxury Retreat,Luxury,4,17,37741,Easy,"Couples, Families",Active
+38,12,Gokarna Weekend Getaway,Weekend Getaway,3,27,8033,Easy,"Families, Corporate",Active
+39,12,Gokarna Friends Getaway,Weekend Getaway,4,32,7178,Easy,"Solo Travellers, Students",Active
+40,12,Gokarna Workation,Workation,6,21,33149,Easy,Corporate,Active
+41,13,Varkala Romantic Beach Retreat,Honeymoon,3,19,48830,Easy,Couples,Active
+42,13,Varkala Luxury Retreat,Luxury,3,15,38717,Easy,"Couples, Families",Active
+43,13,Varkala Weekend Getaway,Weekend Getaway,3,23,11189,Easy,"Families, Corporate",Active
+44,13,Varkala Friends Getaway,Weekend Getaway,6,26,6690,Easy,"Solo Travellers, Students",Active
+45,13,Varkala Workation,Workation,7,29,33809,Easy,Corporate,Active
+46,14,Kovalam Honeymoon Escape,Honeymoon,3,23,30443,Easy,Couples,Active
+47,14,Kovalam Luxury Retreat,Luxury,4,22,30330,Easy,"Couples, Families",Active
+48,14,Kovalam Weekend Getaway,Weekend Getaway,4,30,8040,Easy,"Families, Corporate",Active
+49,14,Kovalam Friends Getaway,Weekend Getaway,6,26,11606,Easy,"Solo Travellers, Students",Active
+50,14,Kovalam Workation,Workation,6,29,19517,Easy,Corporate,Active
+51,15,Puri Romantic Beach Retreat,Honeymoon,4,21,36737,Easy,Couples,Active
+52,15,Puri Luxury Retreat,Luxury,3,20,30699,Easy,"Couples, Families",Active
+53,15,Puri Weekend Getaway,Weekend Getaway,3,20,11537,Easy,"Families, Corporate",Active
+54,15,Puri Friends Getaway,Weekend Getaway,6,29,11716,Easy,"Solo Travellers, Students",Active
+55,15,Puri Workation,Workation,6,26,24125,Easy,Corporate,Active
+56,16,Rameshwaram Spiritual Journey,Spiritual,4,25,16824,Difficult,"Couples, Solo Travellers",Active
+57,16,Rameshwaram Family Pilgrimage,Family,6,30,23341,Difficult,"Families, Senior Citizens",Active
+58,17,Varanasi Spiritual Journey,Spiritual,5,24,12161,Difficult,"Couples, Solo Travellers",Active
+59,17,Varanasi Family Pilgrimage,Family,6,27,20086,Difficult,"Families, Senior Citizens",Active
+60,18,Haridwar Spiritual Journey,Spiritual,4,29,12905,Difficult,"Couples, Solo Travellers",Active
+61,18,Haridwar Family Pilgrimage,Family,4,30,19055,Difficult,"Families, Senior Citizens",Active
+62,19,Rishikesh Ultimate Adventure,Adventure,5,20,18687,Moderate,"Students, Solo Travellers",Active
+63,19,Rishikesh Adventure Weekend,Weekend Getaway,6,28,16976,Moderate,"Solo Travellers, Corporate",Active
+64,19,Rishikesh Adventure Escape,Weekend Getaway,4,24,16193,Moderate,"Families, Couples",Active
+65,20,Kedarnath Spiritual Journey,Spiritual,4,27,17538,Difficult,"Couples, Solo Travellers",Active
+66,20,Kedarnath Family Pilgrimage,Family,5,25,31106,Difficult,"Families, Senior Citizens",Active
+67,21,Badrinath Spiritual Journey,Spiritual,4,23,16729,Difficult,"Couples, Solo Travellers",Active
+68,21,Badrinath Family Pilgrimage,Family,6,27,23140,Difficult,"Families, Senior Citizens",Active
+69,22,Amritsar Family Getaway,Family Getaway,4,25,23660,Easy,"Families, Couples",Active
+70,22,Amritsar Educational Getaway,Weekend Getaway,4,34,14324,Easy,"Students, Solo Travellers",Active
+71,22,Amritsar Weekend Getaway,Weekend Getaway,3,20,6015,Easy,"Corporate, Solo Travellers",Active
+72,23,Tirupati Spiritual Journey,Spiritual,4,26,11117,Difficult,"Couples, Solo Travellers",Active
+73,23,Tirupati Family Pilgrimage,Family,4,26,25835,Difficult,"Families, Senior Citizens",Active
+74,24,Ujjain Spiritual Journey,Spiritual,5,26,10841,Difficult,"Couples, Solo Travellers",Active
+75,24,Ujjain Family Pilgrimage,Family,6,31,21702,Difficult,"Families, Senior Citizens",Active
+76,25,Ayodhya Spiritual Journey,Spiritual,3,22,15443,Difficult,"Couples, Solo Travellers",Active
+77,25,Ayodhya Family Pilgrimage,Family,5,33,19941,Difficult,"Families, Senior Citizens",Active
+78,26,Jaipur Family Getaway,Family Getaway,3,25,20174,Easy,"Families, Couples",Active
+79,26,Jaipur Educational Getaway,Weekend Getaway,5,34,9692,Easy,"Students, Solo Travellers",Active
+80,26,Jaipur Weekend Getaway,Weekend Getaway,2,22,6417,Easy,"Corporate, Solo Travellers",Active
+81,27,Udaipur Family Getaway,Family Getaway,5,23,25277,Easy,"Families, Couples",Active
+82,27,Udaipur Educational Getaway,Weekend Getaway,6,31,9846,Easy,"Students, Solo Travellers",Active
+83,27,Udaipur Weekend Getaway,Weekend Getaway,3,26,9576,Easy,"Corporate, Solo Travellers",Active
+84,28,Jodhpur Family Getaway,Family Getaway,4,21,21762,Easy,"Families, Couples",Active
+85,28,Jodhpur Educational Getaway,Weekend Getaway,5,31,8544,Easy,"Students, Solo Travellers",Active
+86,28,Jodhpur Weekend Getaway,Weekend Getaway,4,20,7656,Easy,"Corporate, Solo Travellers",Active
+87,29,Agra Family Getaway,Family Getaway,5,30,21770,Easy,"Families, Couples",Active
+88,29,Agra Educational Getaway,Weekend Getaway,6,30,8111,Easy,"Students, Solo Travellers",Active
+89,29,Agra Weekend Getaway,Weekend Getaway,3,20,8308,Easy,"Corporate, Solo Travellers",Active
+90,30,Hampi Family Getaway,Family Getaway,3,26,20764,Easy,"Families, Couples",Active
+91,30,Hampi Educational Getaway,Weekend Getaway,4,25,12954,Easy,"Students, Solo Travellers",Active
+92,30,Hampi Weekend Getaway,Weekend Getaway,3,27,7407,Easy,"Corporate, Solo Travellers",Active
+93,31,Khajuraho Family Getaway,Family Getaway,3,20,17980,Easy,"Families, Couples",Active
+94,31,Khajuraho Educational Getaway,Weekend Getaway,5,34,12321,Easy,"Students, Solo Travellers",Active
+95,31,Khajuraho Weekend Getaway,Weekend Getaway,3,22,7310,Easy,"Corporate, Solo Travellers",Active
+96,40,Bir Billing Ultimate Adventure,Adventure,5,24,21811,Moderate,"Students, Solo Travellers",Active
+97,40,Bir Billing Adventure Weekend,Weekend Getaway,5,34,16959,Moderate,"Solo Travellers, Corporate",Active
+98,40,Bir Billing Adventure Escape,Weekend Getaway,5,23,15358,Moderate,"Families, Couples",Active

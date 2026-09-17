@@ -1,0 +1,26 @@
+employee_id,employee_name,department,designation,email,phone_number,joining_date,employment_status
+1,Upma Mandal,Sales,Sales Manager,upma.mandal@trippulse.com,+914404339737,2026-07-10,Inactive
+2,Rachita Sabharwal,Sales,Sales Executive,rachita.sabharwal@trippulse.com,4210810841,2023-06-15,Active
+3,Orinder Chand,Sales,Senior Sales Executive,orinder.chand@trippulse.com,04464790938,2025-07-19,Active
+4,Wyatt Bora,Sales,Senior Sales Executive,wyatt.bora@trippulse.com,+916193043762,2022-12-23,Active
+5,Chandran Bava,Sales,Senior Sales Executive,chandran.bava@trippulse.com,00315701774,2024-11-13,Active
+6,Isaac Anand,Sales,Senior Sales Executive,isaac.anand@trippulse.com,9214072511,2026-01-04,Active
+7,Tanveer Shetty,Sales,Senior Sales Executive,tanveer.shetty@trippulse.com,6301051520,2022-07-09,Active
+8,Atharv Aggarwal,Sales,Sales Executive,atharv.aggarwal@trippulse.com,+915062495368,2026-05-25,Active
+9,Nachiket Mittal,Sales,Senior Sales Executive,nachiket.mittal@trippulse.com,1609894100,2023-05-02,Inactive
+10,Veda Gera,Sales,Sales Manager,veda.gera@trippulse.com,07074025417,2024-01-25,Active
+11,Harrison Yohannan,Sales,Sales Manager,harrison.yohannan@trippulse.com,+914591222915,2024-02-16,Active
+12,Madhav Khosla,Sales,Sales Executive,madhav.khosla@trippulse.com,+917226884627,2022-05-24,Inactive
+13,Dalaja Patel,Marketing,Marketing Executive,dalaja.patel@trippulse.com,+915448602677,2023-01-08,Active
+14,Madhav Goyal,Marketing,Marketing Manager,madhav.goyal@trippulse.com,4012331644,2022-12-16,Active
+15,Michael Natt,Marketing,Marketing Executive,michael.natt@trippulse.com,+917753756888,2025-06-02,Active
+16,Amol Sibal,Marketing,Marketing Executive,amol.sibal@trippulse.com,02357611407,2023-06-17,Active
+17,Lavanya Cherian,Operations,Operations Manager,lavanya.cherian@trippulse.com,01249287694,2022-12-24,Active
+18,Kai Soni,Operations,Operations Executive,kai.soni@trippulse.com,+913897104723,2026-01-19,Active
+19,Baghyawati Grewal,Operations,Operations Executive,baghyawati.grewal@trippulse.com,4793530237,2024-10-16,Active
+20,Sachi Bajaj,Operations,Operations Manager,sachi.bajaj@trippulse.com,+918334247774,2022-03-09,Active
+21,Saanvi Kuruvilla,Finance,Finance Executive,saanvi.kuruvilla@trippulse.com,06737764451,2023-12-05,Active
+22,Oni Puri,Finance,Finance Executive,oni.puri@trippulse.com,00769478689,2025-09-24,Active
+23,Gauri Upadhyay,Customer Support,Support Executive,gauri.upadhyay@trippulse.com,+911421381460,2024-10-25,Active
+24,Rachana Kakar,Customer Support,Support Executive,rachana.kakar@trippulse.com,+911668597728,2024-01-28,Inactive
+25,William Sharaf,Customer Support,Support Executive,william.sharaf@trippulse.com,5117988968,2025-03-08,Active

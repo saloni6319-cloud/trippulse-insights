@@ -1,0 +1,41 @@
+destination_id,destination_name,state,country,destination_type,destination_status,preferred_seasons
+1,Manali,Himachal Pradesh,India,Mountains,Active,"Winter, Spring, Summer"
+2,Shimla,Himachal Pradesh,India,Mountains,Active,"Spring, Summer, Winter"
+3,Kasol,Himachal Pradesh,India,Mountains,Active,"Spring, Summer, Autumn"
+4,Dharamshala & McLeod Ganj,Himachal Pradesh,India,Mountains,Active,"Spring, Summer, Autumn"
+5,Leh-Ladakh,Ladakh,India,Mountains,Active,"Summer, Autumn"
+6,Auli,Uttarakhand,India,Mountains,Active,"Winter, Spring"
+7,Nainital,Uttarakhand,India,Mountains,Active,"Spring, Summer, Autumn"
+8,Gangtok,Sikkim,India,Mountains,Active,"Spring, Autumn, Monsoon"
+9,Darjeeling,West Bengal,India,Mountains,Active,"Spring, Autumn, Monsoon"
+10,Tawang,Arunachal Pradesh,India,Mountains,Active,"Spring, Summer, Autumn"
+11,Goa,Goa,India,Beaches,Active,"Winter, Autumn, Monsoon"
+12,Gokarna,Karnataka,India,Beaches,Active,"Winter, Autumn, Spring"
+13,Varkala,Kerala,India,Beaches,Active,"Winter, Autumn, Spring"
+14,Kovalam,Kerala,India,Beaches,Active,"Winter, Autumn, Spring"
+15,Puri,Odisha,India,Beaches,Active,"Winter, Autumn, Spring"
+16,Rameshwaram,Tamil Nadu,India,Spiritual,Active,"Winter, Autumn, Spring"
+17,Varanasi,Uttar Pradesh,India,Spiritual,Active,All
+18,Haridwar,Uttarakhand,India,Spiritual,Active,All
+19,Rishikesh,Uttarakhand,India,Adventure,Active,"Spring, Summer, Autumn"
+20,Kedarnath,Uttarakhand,India,Spiritual,Active,"Summer, Autumn"
+21,Badrinath,Uttarakhand,India,Spiritual,Active,"Summer, Autumn"
+22,Amritsar,Punjab,India,Heritage,Active,All
+23,Tirupati,Andhra Pradesh,India,Spiritual,Active,All
+24,Ujjain,Madhya Pradesh,India,Spiritual,Active,All
+25,Ayodhya,Uttar Pradesh,India,Spiritual,Active,All
+26,Jaipur,Rajasthan,India,Heritage,Active,"Winter, Autumn, Spring"
+27,Udaipur,Rajasthan,India,Heritage,Active,"Winter, Autumn, Spring"
+28,Jodhpur,Rajasthan,India,Heritage,Active,"Winter, Autumn, Spring"
+29,Agra,Uttar Pradesh,India,Heritage,Active,"Winter, Autumn, Spring"
+30,Hampi,Karnataka,India,Heritage,Active,"Winter, Autumn, Spring"
+31,Khajuraho,Madhya Pradesh,India,Heritage,Active,"Winter, Autumn, Spring"
+32,Jaisalmer,Rajasthan,India,Desert,Active,"Winter, Autumn"
+33,Bikaner,Rajasthan,India,Desert,Active,"Winter, Autumn"
+34,Ranthambore National Park,Rajasthan,India,Wildlife,Active,"Winter, Spring, Summer"
+35,Jim Corbett National Park,Uttarakhand,India,Wildlife,Active,"Winter, Spring, Summer"
+36,Kaziranga National Park,Assam,India,Wildlife,Active,"Winter, Spring"
+37,Gir National Park,Gujarat,India,Wildlife,Active,"Winter, Spring, Summer"
+38,Andaman & Nicobar Islands,Andaman & Nicobar Islands,India,Islands,Active,"Winter, Spring, Autumn"
+39,Lakshadweep,Lakshadweep,India,Islands,Active,"Winter, Spring, Autumn"
+40,Bir Billing,Himachal Pradesh,India,Adventure,Active,"Spring, Summer, Autumn"
