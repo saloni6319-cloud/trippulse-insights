@@ -1,0 +1,3 @@
+-- TripPulse Insights
+-- Business analysis queries
+-- Database: MySQL
