@@ -203,7 +203,7 @@ trippulse-insights/
 
 This project demonstrates practical experience in:
 
-Data Analytics
+### Data Analytics
 
 - Data cleaning
 - Data validation
@@ -212,7 +212,7 @@ Data Analytics
 - Business analysis
 - Customer segmentation
 
-SQL
+### SQL
 
 - Joins
 - Aggregations
@@ -221,7 +221,7 @@ SQL
 - Window functions
 - Business analysis queries
 
-Python
+### Python
 
 - Pandas
 - NumPy
@@ -229,7 +229,7 @@ Python
 - Synthetic data generation
 - Data validation
 
-Power BI
+### Power BI
 
 - Data modelling
 - Relationships
@@ -248,5 +248,5 @@ Aspiring Data Analyst
 
 LinkedIn: [Saloni Singh](https://www.linkedin.com/in/saloni-singh-math)
 
-GitHub: [[saloni6319-cloud](https://github.com/saloni6319-cloud)]
+GitHub: [[saloni6319-cloud](https://github.com/saloni6319-cloud)
 
