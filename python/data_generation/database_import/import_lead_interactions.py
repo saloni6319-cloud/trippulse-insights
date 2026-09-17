@@ -1,0 +1,91 @@
+import pandas as pd
+import mysql.connector
+
+
+# -----------------------------
+# Load CSV
+# -----------------------------
+
+df = pd.read_csv("output/lead_interactions.csv")
+
+# Convert NaN values to Python None
+# so MySQL receives them as SQL NULL
+df = df.where(pd.notna(df), None)
+
+
+# -----------------------------
+# Connect to MySQL
+# -----------------------------
+
+conn = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="Shreya#Savya12",
+    database="trip_pulse_insights"
+)
+
+cursor = conn.cursor()
+
+
+# -----------------------------
+# Insert query
+# -----------------------------
+
+query = """
+INSERT INTO lead_interactions (
+    interaction_id,
+    lead_id,
+    employee_id,
+    interaction_date,
+    interaction_type,
+    customer_response,
+    objection_category,
+    follow_up_required,
+    next_follow_up_date,
+    interaction_outcome,
+    remarks
+)
+VALUES (
+    %s, %s, %s, %s, %s, %s,
+    %s, %s, %s, %s, %s
+)
+"""
+
+
+# -----------------------------
+# Prepare data
+# -----------------------------
+
+data = [
+    tuple(row)
+    for row in df.itertuples(index=False, name=None)
+]
+
+
+# -----------------------------
+# Insert in batches
+# -----------------------------
+
+batch_size = 1000
+
+for i in range(0, len(data), batch_size):
+
+    batch = data[i:i + batch_size]
+
+    cursor.executemany(query, batch)
+    conn.commit()
+
+    print(
+        f"Imported {min(i + batch_size, len(data))} / "
+        f"{len(data)} lead interactions"
+    )
+
+
+# -----------------------------
+# Close connection
+# -----------------------------
+
+cursor.close()
+conn.close()
+
+print("Lead interactions imported successfully!")
