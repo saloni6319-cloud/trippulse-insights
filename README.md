@@ -111,6 +111,28 @@ The repository contains both a **curated set of 30 representative analyses** and
 
 The final Power BI dashboard contains **5 interactive pages**.
 
+### Dashboard Preview
+
+#### 1. Executive Overview
+
+![Executive Overview](powerbi/screenshots/01_Executive_Overview.png)
+
+#### 2. Revenue & Trip Performance
+
+![Revenue & Trip Performance](powerbi/screenshots/02_Revenue_Trip_Performance.png)
+
+#### 3. Customer & Retention
+
+![Customer & Retention](powerbi/screenshots/03_Customer_Retention.png)
+
+#### 4. Marketing & Sales Funnel
+
+![Marketing & Sales Funnel](powerbi/screenshots/04_Marketing_Sales_Funnel.png)
+
+#### 5. Operations & Risk
+
+![Operations & Risk](powerbi/screenshots/05_Operations_Risk.png)
+
 ### 1. Executive Overview
 
 Provides a high-level view of:
@@ -188,13 +210,37 @@ trippulse-insights/
 │   └── complete_analysis.sql
 │
 ├── python/
-│   └── data_generation/
+│   ├── data_generation/
+│   │   ├── customers.py
+│   │   ├── destinations.py
+│   │   ├── trips.py
+│   │   ├── bookings.py
+│   │   ├── booking_passengers.py
+│   │   ├── payments.py
+│   │   ├── reviews.py
+│   │   ├── leads.py
+│   │   ├── lead_interactions.py
+│   │   ├── employees.py
+│   │   ├── marketing_campaigns.py
+│   │   ├── customer_campaigns.py
+│   │   └── trip_pricing.py
+│   │
+│   ├── data_validation/
+│   │   └── check_data.py
+│   │
+│   └── database_import/
+│       ├── README.md
+│       └── import_*.py
 │
 ├── powerbi/
-│   └── TripPulse_Insights.pbix
-│
-├── data/
-│   └── synthetic_dataset/
+│   ├── TripPulse_Insights.pbix
+│   ├── README.md
+│   └── screenshots/
+│       ├── 01_Executive_Overview.png
+│       ├── 02_Revenue_Trip_Performance.png
+│       ├── 03_Customer_Retention.png
+│       ├── 04_Marketing_Sales_Funnel.png
+│       └── 05_Operations_Risk.png
 │
 └── README.md
 ```
