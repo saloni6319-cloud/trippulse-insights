@@ -205,9 +205,22 @@ Analysis of the simulated dataset revealed several patterns:
 ```text
 trippulse-insights/
 │
-├── sql/
-│   ├── analysis_queries.sql
-│   └── complete_analysis.sql
+├── data/
+│   └── synthetic_dataset/
+│       ├── booking_passengers.csv
+│       ├── bookings.csv
+│       ├── customer_campaigns.csv
+│       ├── customers.csv
+│       ├── destinations.csv
+│       ├── employees.csv
+│       ├── lead_interactions.csv
+│       ├── leads.csv
+│       ├── marketing_campaigns.csv
+│       ├── payments.csv
+│       ├── reviews.csv
+│       ├── trip_pricing.csv
+│       ├── trips.csv
+│       └── README.md
 │
 ├── python/
 │   ├── data_generation/
@@ -231,6 +244,10 @@ trippulse-insights/
 │   └── database_import/
 │       ├── README.md
 │       └── import_*.py
+│
+├── sql/
+│   ├── analysis_queries.sql
+│   └── complete_analysis.sql
 │
 ├── powerbi/
 │   ├── TripPulse_Insights.pbix
